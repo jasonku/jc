@@ -4,7 +4,7 @@
 
     git clone https://github.com/watsoncj/jc.git
     cd jc
-    npm link
+    npm install
 
 ## :boom: Profit
 
